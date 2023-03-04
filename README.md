@@ -2,4 +2,5 @@
 
 <a href="https://github.com/gunzxx" target="_blank">
     <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gunzxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Gunzxx stats" title="Gunzxx stats">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gunzxx&row=1" alt="Gunzxx stats" title="Gunzxx stats">
 </a>
