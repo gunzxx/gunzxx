@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/gunzxx" target="_blank">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gunzxx&row=1" alt="Gunzxx stats" title="Gunzxx stats">
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=gunzxx&row=1" alt="Gunzxx stats" title="Gunzxx stats">
 </a>
