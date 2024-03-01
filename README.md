@@ -5,7 +5,13 @@
 </a>
 
 
-### 🏆 Github Achievement
+### 🏆 Github Trophy
 <a href="https://github.com/gunzxx" target="_blank">
     <img width="70%" src="https://github-profile-trophy.vercel.app/?username=gunzxx&row=1" alt="Gunzxx stats" title="Gunzxx stats">
+</a>
+
+
+### 💻 Tech
+<a href="https://github.com/gunzxx" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,docker,kubernetes,figma,php,laravel,postman,dart,flutter,firebase,mongodb,postgresql,py&perline=14" />
 </a>
