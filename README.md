@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center">
+    <h1>Hello, I'm Guntur</h1>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;2%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" />
-</p>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
