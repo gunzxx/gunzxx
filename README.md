@@ -1,6 +1,6 @@
 <div align="center">
     <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Guntur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;2%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;3%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" />
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
